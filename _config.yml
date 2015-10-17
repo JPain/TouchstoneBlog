@@ -12,3 +12,5 @@ github_username:  jpain
 
 # Build settings
 markdown: kramdown
+
+exclude: [vendor]
